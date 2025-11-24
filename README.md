@@ -23,6 +23,8 @@ Only one mandatory rule
 
 > **Any array containing 2 or more objects is automatically turned into a single headered table using the union of all keys that appear anywhere in the array. Missing fields become empty cells.**
 
+![LLM Tokens comparison](./LLM_tokens_compare.png)
+
 ### Example 1: Different set of keys in list of objects
 
 JSON (Prettify: 111 tokens, Minified: 63 tokens)
